@@ -1,0 +1,6 @@
+login
+portal
+dashboard
+documentation
+manual
+report
